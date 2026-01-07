@@ -1,0 +1,421 @@
+{
+    "name": "enes ezber",
+    "attempt": 3,
+    "processed_data": [
+        {
+            "key": "H",
+            "hold_time": 0.08805584907531738,
+            "inter_key_interval": null
+        },
+        {
+            "key": "\u17c0\udc20",
+            "hold_time": 0.4284999370574951,
+            "inter_key_interval": -0.4055771827697754
+        },
+        {
+            "key": "e",
+            "hold_time": 0.13404440879821777,
+            "inter_key_interval": 0.18029499053955078
+        },
+        {
+            "key": "l",
+            "hold_time": 0.09072995185852051,
+            "inter_key_interval": 1.7776148319244385
+        },
+        {
+            "key": "l",
+            "hold_time": 0.09039974212646484,
+            "inter_key_interval": 0.22502946853637695
+        },
+        {
+            "key": "o",
+            "hold_time": 0.15941905975341797,
+            "inter_key_interval": 0.673215389251709
+        },
+        {
+            "key": " ",
+            "hold_time": 0.11304497718811035,
+            "inter_key_interval": 0.966099739074707
+        },
+        {
+            "key": "w",
+            "hold_time": 0.13571524620056152,
+            "inter_key_interval": 1.0127484798431396
+        },
+        {
+            "key": "o",
+            "hold_time": 0.09029078483581543,
+            "inter_key_interval": 0.020730018615722656
+        },
+        {
+            "key": "r",
+            "hold_time": 0.13504743576049805,
+            "inter_key_interval": 0.11304736137390137
+        },
+        {
+            "key": "l",
+            "hold_time": 0.11260056495666504,
+            "inter_key_interval": 0.11230635643005371
+        },
+        {
+            "key": "d",
+            "hold_time": 0.09049725532531738,
+            "inter_key_interval": 0.6075766086578369
+        },
+        {
+            "key": "\r",
+            "hold_time": 0.08966875076293945,
+            "inter_key_interval": 0.8792099952697754
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.11058259010314941,
+            "inter_key_interval": 0.9460952281951904
+        },
+        {
+            "key": ",",
+            "hold_time": 0.0905616283416748,
+            "inter_key_interval": 1.0107245445251465
+        },
+        {
+            "key": " ",
+            "hold_time": 0.052268266677856445,
+            "inter_key_interval": 3.3912923336029053
+        },
+        {
+            "key": "I",
+            "hold_time": 0.06828594207763672,
+            "inter_key_interval": 0.5396687984466553
+        },
+        {
+            "key": "\u17c0\udc20",
+            "hold_time": 0.4717259407043457,
+            "inter_key_interval": -0.4053177833557129
+        },
+        {
+            "key": " ",
+            "hold_time": 0.1098029613494873,
+            "inter_key_interval": 0.6772909164428711
+        },
+        {
+            "key": "s",
+            "hold_time": 0.15712761878967285,
+            "inter_key_interval": 0.13711309432983398
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.09064817428588867,
+            "inter_key_interval": 0.5176939964294434
+        },
+        {
+            "key": "c",
+            "hold_time": 0.11459922790527344,
+            "inter_key_interval": 0.0654153823852539
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.0910193920135498,
+            "inter_key_interval": 0.13363194465637207
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.06789660453796387,
+            "inter_key_interval": 0.08831048011779785
+        },
+        {
+            "key": " ",
+            "hold_time": 0.13589096069335938,
+            "inter_key_interval": 0.3824925422668457
+        },
+        {
+            "key": "s",
+            "hold_time": 0.20096778869628906,
+            "inter_key_interval": 0.022748947143554688
+        },
+        {
+            "key": "c",
+            "hold_time": 0.1568458080291748,
+            "inter_key_interval": 0.11255383491516113
+        },
+        {
+            "key": "r",
+            "hold_time": 0.11302852630615234,
+            "inter_key_interval": 0.5187816619873047
+        },
+        {
+            "key": "e",
+            "hold_time": 0.11444687843322754,
+            "inter_key_interval": 0.11148619651794434
+        },
+        {
+            "key": "a",
+            "hold_time": 0.11491894721984863,
+            "inter_key_interval": 0.11156487464904785
+        },
+        {
+            "key": "\u00f6",
+            "hold_time": 0.13254976272583008,
+            "inter_key_interval": 0.0
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.13718318939208984,
+            "inter_key_interval": 0.31395459175109863
+        },
+        {
+            "key": "m",
+            "hold_time": 0.11287403106689453,
+            "inter_key_interval": 0.290050745010376
+        },
+        {
+            "key": ",",
+            "hold_time": 0.06622648239135742,
+            "inter_key_interval": 0.5864405632019043
+        },
+        {
+            "key": " ",
+            "hold_time": 0.15791964530944824,
+            "inter_key_interval": 1.462651252746582
+        },
+        {
+            "key": "y",
+            "hold_time": 0.0902557373046875,
+            "inter_key_interval": 0.5171215534210205
+        },
+        {
+            "key": "o",
+            "hold_time": 0.0901498794555664,
+            "inter_key_interval": 0.06730771064758301
+        },
+        {
+            "key": "u",
+            "hold_time": 0.06642413139343262,
+            "inter_key_interval": 0.18020057678222656
+        },
+        {
+            "key": " ",
+            "hold_time": 0.08860135078430176,
+            "inter_key_interval": 1.0810294151306152
+        },
+        {
+            "key": "s",
+            "hold_time": 0.15852880477905273,
+            "inter_key_interval": 0.2698385715484619
+        },
+        {
+            "key": "c",
+            "hold_time": 0.13455581665039062,
+            "inter_key_interval": 0.11320972442626953
+        },
+        {
+            "key": "r",
+            "hold_time": 0.13451528549194336,
+            "inter_key_interval": 0.09051251411437988
+        },
+        {
+            "key": "e",
+            "hold_time": 0.13639116287231445,
+            "inter_key_interval": 0.06633639335632324
+        },
+        {
+            "key": "\u00f6",
+            "hold_time": 0.08806848526000977,
+            "inter_key_interval": 0.20389413833618164
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.10897016525268555,
+            "inter_key_interval": 0.2951221466064453
+        },
+        {
+            "key": "a",
+            "hold_time": 0.11317563056945801,
+            "inter_key_interval": 0.0690314769744873
+        },
+        {
+            "key": "\u00f6",
+            "hold_time": 0.08957171440124512,
+            "inter_key_interval": 0.0
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.11155533790588379,
+            "inter_key_interval": 0.4271824359893799
+        },
+        {
+            "key": "\u00f6",
+            "hold_time": 0.06739354133605957,
+            "inter_key_interval": 0.22475671768188477
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.11391735076904297,
+            "inter_key_interval": 0.1802971363067627
+        },
+        {
+            "key": "n",
+            "hold_time": 0.04127240180969238,
+            "inter_key_interval": 0.16023683547973633
+        },
+        {
+            "key": "m",
+            "hold_time": 0.06558060646057129,
+            "inter_key_interval": -0.04183816909790039
+        },
+        {
+            "key": "\b",
+            "hold_time": 0.11664652824401855,
+            "inter_key_interval": 0.5837130546569824
+        },
+        {
+            "key": ",",
+            "hold_time": 0.06588101387023926,
+            "inter_key_interval": 0.26802539825439453
+        },
+        {
+            "key": " ",
+            "hold_time": 0.13518762588500977,
+            "inter_key_interval": 0.09052395820617676
+        },
+        {
+            "key": "w",
+            "hold_time": 0.15756988525390625,
+            "inter_key_interval": 1.4157085418701172
+        },
+        {
+            "key": "e",
+            "hold_time": 0.11215782165527344,
+            "inter_key_interval": 0.045963287353515625
+        },
+        {
+            "key": " ",
+            "hold_time": 0.09035038948059082,
+            "inter_key_interval": 0.5399527549743652
+        },
+        {
+            "key": "a",
+            "hold_time": 0.15836286544799805,
+            "inter_key_interval": 0.2248516082763672
+        },
+        {
+            "key": "l",
+            "hold_time": 0.06588125228881836,
+            "inter_key_interval": 0.04502153396606445
+        },
+        {
+            "key": "l",
+            "hold_time": 0.0881354808807373,
+            "inter_key_interval": 0.06959986686706543
+        },
+        {
+            "key": " ",
+            "hold_time": 0.06615853309631348,
+            "inter_key_interval": 0.18163728713989258
+        },
+        {
+            "key": "s",
+            "hold_time": 0.1558845043182373,
+            "inter_key_interval": 0.2941117286682129
+        },
+        {
+            "key": "c",
+            "hold_time": 0.15650701522827148,
+            "inter_key_interval": 0.11321282386779785
+        },
+        {
+            "key": "r",
+            "hold_time": 0.11261534690856934,
+            "inter_key_interval": 0.11411714553833008
+        },
+        {
+            "key": "e",
+            "hold_time": 0.11307477951049805,
+            "inter_key_interval": 0.0661478042602539
+        },
+        {
+            "key": "a",
+            "hold_time": 0.13591647148132324,
+            "inter_key_interval": 0.06692624092102051
+        },
+        {
+            "key": "m",
+            "hold_time": 0.04415106773376465,
+            "inter_key_interval": 0.0
+        },
+        {
+            "key": " ",
+            "hold_time": 0.08867406845092773,
+            "inter_key_interval": 0.7663960456848145
+        },
+        {
+            "key": "f",
+            "hold_time": 0.16032695770263672,
+            "inter_key_interval": 0.17952919006347656
+        },
+        {
+            "key": "o",
+            "hold_time": 0.10963058471679688,
+            "inter_key_interval": 0.15764999389648438
+        },
+        {
+            "key": "r",
+            "hold_time": 0.11235404014587402,
+            "inter_key_interval": 0.022603988647460938
+        },
+        {
+            "key": " ",
+            "hold_time": 0.09005594253540039,
+            "inter_key_interval": 0.3602292537689209
+        },
+        {
+            "key": "i",
+            "hold_time": 0.13478827476501465,
+            "inter_key_interval": 0.6071169376373291
+        },
+        {
+            "key": "c",
+            "hold_time": 0.15912103652954102,
+            "inter_key_interval": 0.3606605529785156
+        },
+        {
+            "key": "e",
+            "hold_time": 0.1364278793334961,
+            "inter_key_interval": 0.0005273818969726562
+        },
+        {
+            "key": " ",
+            "hold_time": 0.11204743385314941,
+            "inter_key_interval": 0.2664458751678467
+        },
+        {
+            "key": "c",
+            "hold_time": 0.13598299026489258,
+            "inter_key_interval": 0.44968509674072266
+        },
+        {
+            "key": "r",
+            "hold_time": 0.11294198036193848,
+            "inter_key_interval": 0.04503512382507324
+        },
+        {
+            "key": "e",
+            "hold_time": 0.11458921432495117,
+            "inter_key_interval": 0.08911514282226562
+        },
+        {
+            "key": "a",
+            "hold_time": 0.11277508735656738,
+            "inter_key_interval": 0.11116313934326172
+        },
+        {
+            "key": "m",
+            "hold_time": 0.13422751426696777,
+            "inter_key_interval": 0.0
+        },
+        {
+            "key": ".",
+            "hold_time": 0.0886838436126709,
+            "inter_key_interval": 0.7437300682067871
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "oguz burak uyar",
+    "attempt": 2,
+    "processed_data": [
+        {
+            "key": "\u17c0\udc21",
+            "hold_time": 0.20127439498901367,
+            "inter_key_interval": null
+        },
+        {
+            "key": "\u0016",
+            "hold_time": 0.08746480941772461,
+            "inter_key_interval": -0.0785973072052002
+        },
+        {
+            "key": ".",
+            "hold_time": 0.10884952545166016,
+            "inter_key_interval": 0.36832308769226074
+        }
+    ]
+}
