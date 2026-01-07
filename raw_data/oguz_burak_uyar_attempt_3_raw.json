@@ -1,0 +1,37 @@
+{
+    "name": "oguz burak uyar",
+    "attempt": 3,
+    "typed_text": "Hello world, I scream, you scream, we all scream for ice cream.",
+    "keystroke_data": [
+        {
+            "key": "\u17c0\udc21",
+            "event": "press",
+            "time": 1731869998.8539698
+        },
+        {
+            "key": "\u0016",
+            "event": "press",
+            "time": 1731869998.9604833
+        },
+        {
+            "key": "\u0016",
+            "event": "release",
+            "time": 1731869999.0386188
+        },
+        {
+            "key": "\u17c0\udc21",
+            "event": "release",
+            "time": 1731869999.0466495
+        },
+        {
+            "key": ".",
+            "event": "press",
+            "time": 1731869999.4964824
+        },
+        {
+            "key": ".",
+            "event": "release",
+            "time": 1731869999.594465
+        }
+    ]
+}
